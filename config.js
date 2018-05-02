@@ -21,6 +21,9 @@ var themeCss = "themes/default-theme.css";
 var networkStat = {
     "rto": [
 		["pool.arto.cash", "http://pool.arto.cash:8117"],
-		["npool.pw/arto", "http://sg1.npool.pw:3000"]
+		["arto.fatpanda.club", "http://arto.cryptonight.me:8020"],
+		["npool.pw/arto", "http://sg1.npool.pw:3000"],
+		["youpool.io/ARTO", "http://47.98.42.223:8118"],
+		["arto.route199.com", "http://arto.route199.com:8117"]
     ]
 };
